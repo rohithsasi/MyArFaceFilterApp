@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDexCompilerConfiguration">
+    <option name="VM_OPTIONS" value="-Xms128m -Xmx4096m -XX:MaxPermSize=1024m -XX:ReservedCodeCacheSize=200m -XX:+UseCompressedOops" />
+  </component>
+</project>
